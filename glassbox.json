@@ -1,0 +1,108 @@
+{
+  "slug": "jellyfishclear",
+  "box": 208,
+  "date": "2026-11-07",
+  "title": "JellyfishClear",
+  "question": "How does a jellyfish swim?",
+  "hook": "A jellyfish has one ring of muscle, no brain and no bones, yet it is one of the thriftiest swimmers ever measured. Watch its bell squeeze, spring back and ride a ring of its own swirling water.",
+  "thumbText": "HOW A JELLYFISH SWIMS",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "jellyfish",
+    "swimming",
+    "moon jellyfish",
+    "vortex ring",
+    "nematocyst",
+    "box jellyfish",
+    "life cycle",
+    "GFP",
+    "jellyfish blooms",
+    "CMFRI",
+    "biomechanics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A bell of jelly",
+      "text": "A moon jellyfish is about 96% water. Its bell is a springy jelly called mesoglea with one thin ring of swimming muscle underneath. A nerve net replaces a brain, eight rhopalia at the rim sense light and gravity, and stinging cells fire barbed threads in under a millionth of a second."
+    },
+    {
+      "title": "Squeeze, spring back, glide",
+      "text": "The muscle squeezes the bell and pushes water out; the springy jelly pops it open again for free. Tall jellies jet fast but at a high energy cost. Flat moon jellies row: a second swirl under the refilling bell gives a free push, so they go about 30% further per beat and spend less energy to travel than other animals measured."
+    },
+    {
+      "title": "Drifting, balancing, steering",
+      "text": "Jellies swim a few centimetres a second, so currents carry them: they are plankton. Balance crystals in the rhopalia tell down from up, and the rhopalia start every beat. Box jellyfish have 24 eyes and one kind looks up through the surface to find mangrove trees."
+    },
+    {
+      "title": "From polyp to jellyfish",
+      "text": "A larva settles on a rock and becomes a polyp that clones itself, then splits into a stack of discs that pop off as eight-armed baby jellies. That is how blooms appear so suddenly. The 'immortal' Turritopsis can turn back into a polyp under stress, but most still die."
+    },
+    {
+      "title": "Blooms, stings and dinner",
+      "text": "CMFRI has counted swarms of up to 800 jellies in one net off Kerala, and swarms have shut the Kalpakkam power plant's cooling water. Whether blooms are rising worldwide is debated. India now exports jellyfish to East Asia. First aid differs by kind: vinegar for box jellyfish, never for bluebottles."
+    },
+    {
+      "title": "How we found out",
+      "text": "Romanes cut the rim off a jelly in the 1870s and the bell stopped. Shimomura found the glowing protein GFP in a jelly in 1961, which won the 2008 Nobel Prize. Jellies flew in space in 1991, and in 2012 engineers built a jelly robot from heart-muscle cells."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Mesoglea",
+      "def": "The springy, mostly-water jelly that forms a jellyfish's bell and springs it back open after each squeeze."
+    },
+    {
+      "term": "Coronal muscle",
+      "def": "The single ring of swimming muscle on the underside of the bell."
+    },
+    {
+      "term": "Rhopalium",
+      "def": "A small sense club at the bell's rim with a balance crystal and light sensors; it also paces the beat."
+    },
+    {
+      "term": "Nematocyst",
+      "def": "The capsule in a stinging cell, holding a coiled barbed thread that fires out when triggered."
+    },
+    {
+      "term": "Vortex ring",
+      "def": "A doughnut of spinning water thrown off by each pulse of the bell."
+    },
+    {
+      "term": "Passive energy recapture",
+      "def": "The free extra push a flat jelly gets from the stopping vortex under its bell as it refills."
+    },
+    {
+      "term": "Cost of transport",
+      "def": "The energy needed to move one kilogram of animal one metre; moon jellies' is among the lowest measured."
+    },
+    {
+      "term": "Strobilation",
+      "def": "A polyp splitting into a stack of discs that are released as baby jellyfish (ephyrae)."
+    },
+    {
+      "term": "Bloom",
+      "def": "A sudden, very large number of jellyfish in one place."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "jellyfishclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

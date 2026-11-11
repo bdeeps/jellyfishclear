@@ -1,0 +1,781 @@
+{
+  "title": "How we worked out how jellyfish swim",
+  "tagline": "From Linnaeus naming the moon jelly to Romanes snipping off its rim, a Nobel-winning glow, jellies in orbit, robot medusae and India's jellyfish season.",
+  "intro": "Jellyfish have pulsed through the sea for over 500 million years, but for most of history they were a mystery and a nuisance. Naturalists named and drew them, then physiologists cut them apart to find the source of the beat. In the last few decades cameras, dye and lasers revealed the swirling water that makes them such thrifty swimmers, a jellyfish protein lit up biology, and coastal countries like India learned to count, fish and live with their blooms.",
+  "eras": [
+    {
+      "id": "naming",
+      "name": "Naming and cutting",
+      "from": 1750,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Naturalists name and draw jellyfish, and Romanes finds the source of the beat."
+    },
+    {
+      "id": "venom",
+      "name": "Venom and glow",
+      "from": 1900,
+      "to": 2010,
+      "color": "#5ce1a9",
+      "summary": "Stings lead to a Nobel Prize in medicine, and a glowing protein to one in chemistry."
+    },
+    {
+      "id": "motion",
+      "name": "Seeing the swirls",
+      "from": 1990,
+      "to": 2015,
+      "color": "#8ef0ff",
+      "summary": "Spaceflight, high-speed film and flow pictures reveal how jellies sense and swim."
+    },
+    {
+      "id": "people",
+      "name": "Blooms, fisheries and robots",
+      "from": 1995,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Power plants, fishers and engineers learn to live with, use and copy jellyfish."
+    }
+  ],
+  "events": [
+    {
+      "year": 1758,
+      "date": "1758",
+      "era": "naming",
+      "art": "scroll",
+      "title": "The moon jelly gets a name",
+      "who": "Carl Linnaeus",
+      "where": "Uppsala",
+      "country": "Sweden",
+      "text": "In the tenth edition of his great catalogue of living things, Linnaeus named the moon jelly Medusa aurita. Today it is Aurelia aurita, one of the best-studied jellyfish in the world.",
+      "why": "Naming species let naturalists everywhere compare notes on the same animal.",
+      "box": "anatomy",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1849,
+      "date": "1849",
+      "era": "naming",
+      "art": "quill",
+      "title": "Jellyfish join the family tree",
+      "who": "Thomas Henry Huxley",
+      "where": "HMS Rattlesnake, Australian waters; London",
+      "country": "United Kingdom",
+      "text": "On a survey voyage, the young Huxley dissected medusae and argued that jellyfish, sea anemones and their relatives share the same basic body plan of two cell layers. He published it in the Royal Society's Philosophical Transactions (c. 1849).",
+      "why": "It grouped jellyfish with their relatives, the group now called cnidarians.",
+      "box": "anatomy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1875,
+      "date": "16 December 1875",
+      "era": "naming",
+      "art": "neuron",
+      "title": "Cut the rim, stop the beat",
+      "who": "George John Romanes",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "In his Croonian Lecture to the Royal Society, Romanes reported his experiments on small medusae. Cutting off the bell's rim with its sense organs paralysed the bell, while the cut-off rim kept pulsing. Strips and narrow bridges of tissue still passed the wave of contraction along.",
+      "why": "It showed that the beat starts in the rim's sense organs and spreads through a nerve net, decades before nerve nets were understood.",
+      "box": "senses",
+      "sources": [
+        3,
+        2,
+        39
+      ],
+      "key": true
+    },
+    {
+      "year": 1879,
+      "date": "1879–1881",
+      "era": "naming",
+      "art": "colour",
+      "title": "The great book of medusae",
+      "who": "Ernst Haeckel",
+      "where": "Jena",
+      "country": "Germany",
+      "text": "Haeckel's Das System der Medusen described and drew hundreds of jellyfish. His later Kunstformen der Natur (1899–1904) made their shapes famous as art, inspiring designers of the Art Nouveau style.",
+      "why": "His drawings shaped how the world pictures jellyfish to this day.",
+      "box": "anatomy",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "1885",
+      "era": "naming",
+      "art": "scroll",
+      "title": "A book on the first nervous systems",
+      "who": "George John Romanes",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "Romanes gathered his experiments in Jelly-Fish, Star-Fish and Sea-Urchins: Being a Research on Primitive Nervous Systems. It describes how a jelly's rim keeps beating after it is cut off, and how the bell still answers a touch.",
+      "why": "It was one of the first books to treat the simplest nervous systems as a key to understanding our own.",
+      "box": "senses",
+      "sources": [
+        2,
+        39
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1901–1902",
+      "era": "venom",
+      "art": "boat",
+      "title": "A man o' war sting leads to a Nobel Prize",
+      "who": "Charles Richet and Paul Portier",
+      "where": "Aboard Prince Albert I of Monaco's yacht, and Paris",
+      "country": "France",
+      "text": "Studying the venom of the Portuguese man o' war, Richet and Portier found that a second, small dose could make an animal violently ill instead of protecting it. They named the reaction anaphylaxis, and Richet received the 1913 Nobel Prize in Physiology or Medicine.",
+      "why": "Anaphylaxis is the dangerous allergic reaction doctors treat today, and it was found through a sea stinger.",
+      "box": "people",
+      "sources": [
+        35,
+        31
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955–1956",
+      "era": "venom",
+      "art": "eye",
+      "title": "Naming the deadliest box jelly",
+      "who": "Hugo Flecker and Ronald Southcott",
+      "where": "Queensland",
+      "country": "Australia",
+      "text": "After a child died from a sting near Cairns in January 1955, the doctor Hugo Flecker collected the animal responsible. Ronald Southcott described it as a new species and named it Chironex fleckeri after him.",
+      "why": "Knowing the culprit led to warnings, stinger nets and first-aid research in tropical Australia.",
+      "box": "people",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "Summer 1961",
+      "era": "venom",
+      "art": "flask",
+      "title": "Thousands of glowing jellies",
+      "who": "Osamu Shimomura and Frank Johnson",
+      "where": "Friday Harbor, Washington",
+      "country": "USA",
+      "text": "Shimomura and Johnson collected about 10,000 crystal jellies (Aequorea) to find out how they glow. Their 1962 paper described aequorin, a protein that makes blue light when calcium arrives, and noted a second, green-glowing protein.",
+      "why": "The green protein, GFP, became one of the most useful tools in biology.",
+      "box": "history",
+      "sources": [
+        7,
+        5
+      ],
+      "key": true
+    },
+    {
+      "year": 1991,
+      "date": "5–14 June 1991",
+      "era": "motion",
+      "art": "rocket",
+      "title": "Jellyfish in orbit",
+      "who": "Dorothy Spangenberg and NASA",
+      "where": "Space Shuttle Columbia (STS-40), Spacelab Life Sciences 1",
+      "country": "USA",
+      "text": "Thousands of moon-jelly polyps flew in Spacelab to see how gravity sensing develops. They made ephyrae in orbit. The balance organs formed, but the space-reared ephyrae lost more of their crystals, and some were reported to pulse abnormally back on Earth.",
+      "why": "It hinted that animals built in weightlessness may struggle to tell up from down on their return.",
+      "box": "history",
+      "sources": [
+        8,
+        9
+      ],
+      "key": true
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "venom",
+      "art": "molecule",
+      "title": "The glow gets a gene",
+      "who": "Douglas Prasher",
+      "where": "Woods Hole, Massachusetts",
+      "country": "USA",
+      "text": "Prasher cloned and read the gene for green fluorescent protein from Aequorea, so it could be copied into other living things.",
+      "why": "Without the gene, GFP would have stayed a curiosity in one jellyfish.",
+      "box": "history",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992; 1996",
+      "era": "motion",
+      "art": "cell",
+      "title": "A jellyfish that turns back into a polyp",
+      "who": "Ferdinando Boero, Stefano Piraino, Giorgio Bavestrello, Christian Sommer and others",
+      "where": "Italy",
+      "country": "Italy",
+      "text": "Researchers noticed that a tiny hydromedusa, Turritopsis, could turn back into a polyp instead of dying. A 1996 paper described the medusa reversing its life cycle by changing one cell type into another.",
+      "why": "It earned the animal the nickname 'immortal jellyfish', though in nature most still die from predators or disease.",
+      "box": "life",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "venom",
+      "art": "cell",
+      "title": "Glowing worms and bacteria",
+      "who": "Martin Chalfie",
+      "where": "Columbia University, New York",
+      "country": "USA",
+      "text": "Chalfie's team put the GFP gene into bacteria and into tiny worms, and their cells glowed green with no jellyfish needed. Roger Tsien then explained how GFP glows and made new colours.",
+      "why": "Scientists could now watch genes switch on and cells move inside living animals.",
+      "box": "history",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "c. 1995–1996",
+      "era": "people",
+      "art": "bolt",
+      "title": "Jellyfish shut a power plant",
+      "who": "Madras Atomic Power Station",
+      "where": "Kalpakkam, Tamil Nadu",
+      "country": "India",
+      "text": "Swarms of jellyfish were sucked into the sea-water cooling system of the nuclear power station at Kalpakkam, clogging it and forcing a shutdown. Scientists published a warning in Current Science in 2000 (the date of the event comes from later reviews).",
+      "why": "It showed that blooms are an engineering problem for every coastal plant.",
+      "box": "people",
+      "sources": [
+        26
+      ],
+      "key": true
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "motion",
+      "art": "wave",
+      "title": "Rowers and jetters",
+      "who": "Sean Colin and John Costello",
+      "where": "Rhode Island",
+      "country": "USA",
+      "text": "Filming six kinds of small medusae, Colin and Costello showed that tall, bullet-shaped jellies swim by jet propulsion, while flat ones make big swirls at the rim and row.",
+      "why": "It explained why jellies of different shapes live such different lives: fast hunters versus slow, thrifty cruisers.",
+      "box": "pulse",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "motion",
+      "art": "waterdrop",
+      "title": "Two rings of swirling water",
+      "who": "John Dabiri, Sean Colin, John Costello and Morteza Gharib",
+      "where": "Caltech, Pasadena",
+      "country": "USA",
+      "text": "Using dye in the water around swimming moon jellies, the team saw a starting vortex thrown off by each squeeze and a stopping vortex of opposite spin as the bell refilled.",
+      "why": "It set up the discovery that the second swirl gives a free push.",
+      "box": "pulse",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "motion",
+      "art": "eye",
+      "title": "A jellyfish with lens eyes",
+      "who": "Dan-Eric Nilsson, Anders Garm and colleagues",
+      "where": "Lund",
+      "country": "Sweden",
+      "text": "A small box jellyfish, Tripedalia cystophora, was shown to have 24 eyes of four types, including lens eyes with remarkably good lenses, set to give a slightly blurred image.",
+      "why": "Animals with no brain can still have sophisticated eyes.",
+      "box": "senses",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "motion",
+      "art": "bolt",
+      "title": "The fastest sting",
+      "who": "Timm Nüchter, Thomas Holstein and colleagues",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Filming at 1.4 million frames a second, the team found that a stinging capsule in Hydra fires in as little as 700 nanoseconds, with an acceleration of up to about 5.4 million g.",
+      "why": "It is one of the fastest movements known in biology.",
+      "box": "anatomy",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "naming",
+      "art": "leaf",
+      "title": "Jellyfish from 505 million years ago",
+      "who": "Paulyn Cartwright and colleagues",
+      "where": "Marjum Formation, Utah",
+      "country": "USA",
+      "text": "Fossils from Utah showed soft-bodied medusae with bells and tentacles about 505 million years old, among the oldest jellyfish known. In 2023 another 505-million-year-old jelly, Burgessomedusa, was named from Canada's Burgess Shale.",
+      "why": "Jellyfish were already swimming long before fish or plants on land.",
+      "box": "anatomy",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "8 October 2008",
+      "era": "venom",
+      "art": "colour",
+      "title": "A Nobel Prize for a jellyfish protein",
+      "who": "Osamu Shimomura, Martin Chalfie and Roger Tsien",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "The Nobel Prize in Chemistry was awarded for the discovery and development of green fluorescent protein, GFP.",
+      "why": "A protein from a jellyfish now lights up research on the brain, cancer and development around the world.",
+      "box": "history",
+      "sources": [
+        6,
+        5
+      ],
+      "key": true
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "motion",
+      "art": "eye",
+      "title": "Steering by the mangroves",
+      "who": "Anders Garm, Magnus Oskarsson and Dan-Eric Nilsson",
+      "where": "Lund and Copenhagen",
+      "country": "Sweden",
+      "text": "Experiments showed that the box jellyfish Tripedalia uses one of its lens eyes to look up through the water surface at the mangrove canopy, and swims back towards the trees where its food gathers.",
+      "why": "A brainless animal uses sight to navigate.",
+      "box": "senses",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "July 2012",
+      "era": "people",
+      "art": "chip",
+      "title": "The Medusoid",
+      "who": "Janna Nawroth, John Dabiri, Kevin Kit Parker and colleagues",
+      "where": "Caltech and Harvard",
+      "country": "USA",
+      "text": "Engineers built a flat, eight-armed jellyfish from silicone lined with rat heart-muscle cells. An electric field made the cells beat, and it swam.",
+      "why": "It showed that living muscle can power robots, and tested ideas for heart repair.",
+      "box": "history",
+      "sources": [
+        10
+      ],
+      "key": true
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "people",
+      "art": "earth",
+      "title": "Are blooms really rising?",
+      "who": "Robert Condon and colleagues",
+      "where": "Global",
+      "country": "USA",
+      "text": "Pulling together long records from around the world, a large team found no clear long-term global rise in jellyfish, but swings over about 20 years and increases in some regions. A 2012 review had listed fishing, nutrient pollution, warming and new coastal structures as suspected causes.",
+      "why": "It made the debate about blooms more careful and more data-driven.",
+      "box": "people",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "October 2013",
+      "era": "motion",
+      "art": "waterdrop",
+      "title": "The thriftiest swimmer",
+      "who": "Brad Gemmell, John Costello, Sean Colin, John Dabiri and colleagues",
+      "where": "Laboratory and field studies, USA",
+      "country": "USA",
+      "text": "Measuring the water around swimming moon jellies, the team found that the stopping vortex pushes on the bell as it refills, so the jelly goes about 30% further each beat. Its cost of transport was lower than that of other animals measured.",
+      "why": "It explained how an animal with one thin muscle can cross oceans.",
+      "box": "pulse",
+      "sources": [
+        15
+      ],
+      "key": true
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "people",
+      "art": "bolt",
+      "title": "Counting what the screens catch",
+      "who": "Researchers at Kalpakkam",
+      "where": "Kalpakkam, Tamil Nadu",
+      "country": "India",
+      "text": "A year-long study of the Madras Atomic Power Station's intake screens found jellyfish made up about 135.6 tonnes a year, roughly 95% of the weight of all the animals caught.",
+      "why": "Jellyfish are by far the main living nuisance for the plant's cooling water.",
+      "box": "people",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2017–2019 (published 2020)",
+      "era": "people",
+      "art": "boat",
+      "title": "India's jellyfish fishery",
+      "who": "CMFRI scientists (Behera and colleagues)",
+      "where": "Andhra Pradesh coast",
+      "country": "India",
+      "text": "A new fishery for one species, Crambionella annandalei, landed about 55,000 tonnes in 2017–19, mostly processed and exported to China. India's total jellyfish landings were 11,756 tonnes in 2021, according to CMFRI.",
+      "why": "Blooms that were once a nuisance became a source of income for fishers.",
+      "box": "people",
+      "sources": [
+        28,
+        30
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "January 2020",
+      "era": "people",
+      "art": "chip",
+      "title": "Pacemakers for jellyfish",
+      "who": "Nicole Xu and John Dabiri",
+      "where": "California",
+      "country": "USA",
+      "text": "A tiny implant paced live moon jellies to beat faster. They swam up to about three times faster while using only about twice the energy.",
+      "why": "Bionic jellies might one day carry sensors to explore the ocean cheaply.",
+      "box": "pulse",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2017–2021 (published 2025)",
+      "era": "people",
+      "art": "waterdrop",
+      "title": "Kerala's jellyfish calendar",
+      "who": "CMFRI Vizhinjam (Surya and colleagues)",
+      "where": "Vizhinjam, Kerala",
+      "country": "India",
+      "text": "A five-year survey off southern Kerala found 12 kinds of true jellyfish plus a box jelly, with a season from July to January and swarms of up to 800 Crambionella in one net in October–November.",
+      "why": "Knowing when blooms come helps fishers plan and warns beach-goers.",
+      "box": "people",
+      "sources": [
+        29,
+        37
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Moon jelly named",
+      "value": "1758",
+      "who": "Carl Linnaeus, Sweden"
+    },
+    {
+      "label": "Beat traced to the rim",
+      "value": "1875",
+      "who": "George Romanes, UK"
+    },
+    {
+      "label": "Anaphylaxis found from man o' war venom",
+      "value": "1902",
+      "who": "Charles Richet and Paul Portier, France"
+    },
+    {
+      "label": "GFP found in a jellyfish",
+      "value": "1962",
+      "who": "Osamu Shimomura, Japan and USA"
+    },
+    {
+      "label": "Jellyfish robot of heart cells",
+      "value": "2012",
+      "who": "Caltech and Harvard, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "George John Romanes",
+      "life": "1848 – 1894",
+      "role": "Physiologist",
+      "from": "Canada-born, worked in the UK",
+      "note": "Showed that a jellyfish's beat starts in the sense organs at its rim."
+    },
+    {
+      "name": "Ernst Haeckel",
+      "life": "1834 – 1919",
+      "role": "Zoologist and artist",
+      "from": "Germany",
+      "note": "Described and drew hundreds of medusae."
+    },
+    {
+      "name": "Charles Richet",
+      "life": "1850 – 1935",
+      "role": "Physiologist",
+      "from": "France",
+      "note": "Discovered anaphylaxis while studying man o' war venom; Nobel Prize 1913."
+    },
+    {
+      "name": "Osamu Shimomura",
+      "life": "1928 – 2018",
+      "role": "Chemist",
+      "from": "Japan",
+      "note": "Found aequorin and GFP in the crystal jelly; Nobel Prize 2008."
+    },
+    {
+      "name": "Dorothy Spangenberg",
+      "life": "20th century",
+      "role": "Biologist",
+      "from": "USA",
+      "note": "Sent moon-jelly polyps into space in 1991 to study gravity sensing."
+    },
+    {
+      "name": "John Dabiri",
+      "life": "living",
+      "role": "Fluid engineer",
+      "from": "USA",
+      "note": "Studies the swirls jellies make; co-built the Medusoid and bionic jellies."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A moon jellyfish is about 96% water.",
+    "A stinging capsule can fire in as little as 700 billionths of a second.",
+    "Moon jellies go about 30% further per beat thanks to a swirl of water under the bell.",
+    "Box jellyfish have 24 eyes, eight of them with lenses.",
+    "Jellyfish fossils about 505 million years old look much like jellies today."
+  ],
+  "sources": [
+    {
+      "title": "Jellyfish",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jellyfish"
+    },
+    {
+      "title": "Aurelia aurita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aurelia_aurita"
+    },
+    {
+      "title": "Romanes, G. J. Jelly-Fish, Star-Fish and Sea-Urchins (1885; 1898 reprint)",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/cache/epub/46607/pg46607-images.html"
+    },
+    {
+      "title": "The Croonian lecture: Preliminary observations on the locomotor system of medusae (Romanes, 1875)",
+      "publisher": "Royal Society, Making Science",
+      "url": "https://makingscience.royalsociety.org/items/ap_57_2/"
+    },
+    {
+      "title": "Ernst Haeckel's jellyfish",
+      "publisher": "The Public Domain Review",
+      "url": "https://publicdomainreview.org/collection/ernst-haeckels-jellyfish/"
+    },
+    {
+      "title": "Green fluorescent protein",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Green_fluorescent_protein"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 2008 (press release, 8 October 2008)",
+      "publisher": "Royal Swedish Academy of Sciences",
+      "url": "https://www.kva.se/en/news/nobelpriset-i-kemi-2008-2/"
+    },
+    {
+      "title": "Nobel goes to former Princeton researcher for discovery made here (8 Oct 2008)",
+      "publisher": "Princeton University",
+      "url": "https://www.princeton.edu/news/2008/10/08/nobel-goes-former-princeton-researcher-discovery-made-here"
+    },
+    {
+      "title": "STS-40",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/STS-40"
+    },
+    {
+      "title": "Spangenberg et al. Graviceptor development in jellyfish ephyrae in space and on Earth (Adv. Space Res., 1994)",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/19950029070"
+    },
+    {
+      "title": "Artificial jellyfish swims with heartbeat (Nawroth et al. 2012, Nature Biotechnology)",
+      "publisher": "Harvard SEAS",
+      "url": "https://seas.harvard.edu/news/2012/07/artificial-jellyfish-swims-heartbeat"
+    },
+    {
+      "title": "Xu & Dabiri (2020) Low-power microelectronics embedded in live jellyfish enhance propulsion, Science Advances 6: eaaz3194",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6989144"
+    },
+    {
+      "title": "Bionic jellyfish swim faster and more efficiently (2024)",
+      "publisher": "Caltech",
+      "url": "https://www.eas.caltech.edu/news/bionic-jellyfish-swim-faster-and-more-efficiently-1"
+    },
+    {
+      "title": "Turritopsis dohrnii",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turritopsis_dohrnii"
+    },
+    {
+      "title": "Everlasting life: the 'immortal' jellyfish",
+      "publisher": "The Biologist, Royal Society of Biology",
+      "url": "https://thebiologist.rsb.org.uk/biologist-features/everlasting-life-the-immortal-jellyfish"
+    },
+    {
+      "title": "Gemmell et al. (2013) Passive energy recapture in jellyfish contributes to propulsive advantage over other metazoans, PNAS 110: 17904",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3816424"
+    },
+    {
+      "title": "Colin & Costello (2002) Morphology, swimming performance and propulsive mode of six co-occurring hydromedusae, J. Exp. Biol. 205: 427",
+      "publisher": "Roger Williams University",
+      "url": "https://docs.rwu.edu/fcas_fp/93"
+    },
+    {
+      "title": "Dabiri, Colin, Costello & Gharib (2005) Flow patterns generated by oblate medusan jellyfish, J. Exp. Biol. 208: 1257",
+      "publisher": "Caltech Authors",
+      "url": "https://resolver.caltech.edu/CaltechAUTHORS:20110725-140550989"
+    },
+    {
+      "title": "Nanosecond-scale kinetics of nematocyst discharge (Nüchter et al. 2006, Current Biology)",
+      "publisher": "EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/609472"
+    },
+    {
+      "title": "Nematocyst stylet impact velocity (BNID 105579)",
+      "publisher": "BioNumbers, Harvard",
+      "url": "https://bionumbers.hms.harvard.edu/bionumber.aspx?id=105579"
+    },
+    {
+      "title": "Nilsson et al. (2005) Advanced optics in a jellyfish eye, Nature 435: 201",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature03484"
+    },
+    {
+      "title": "Garm, Oskarsson & Nilsson (2011) Box jellyfish use terrestrial visual cues for navigation, Current Biology 21: 798",
+      "publisher": "Lund University",
+      "url": "https://www.lunduniversity.lu.se/lup/publication/d9cb9142-b556-4a5f-8f00-937d4a4476e3"
+    },
+    {
+      "title": "Cartwright et al. (2007) Exceptionally preserved jellyfishes from the Middle Cambrian, PLoS ONE 2: e1121",
+      "publisher": "PLoS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0001121"
+    },
+    {
+      "title": "Royal Ontario Museum researchers identify oldest-known species of swimming jellyfish (2023)",
+      "publisher": "Royal Ontario Museum",
+      "url": "https://www.rom.on.ca/news-releases/royal-ontario-museum-researchers-identify-oldest-known-species-swimming-jellyfish"
+    },
+    {
+      "title": "Jellyfish blooms wax and wane naturally (Condon et al. 2013, PNAS 110: 1000)",
+      "publisher": "Phys.org",
+      "url": "https://phys.org/news/2013-01-jellyfish-blooms-wax-wane-natural.html"
+    },
+    {
+      "title": "Purcell (2012) Jellyfish and ctenophore blooms coincide with human proliferations and environmental perturbations, Annu. Rev. Mar. Sci. 4: 209",
+      "publisher": "Marine Info (VLIZ)",
+      "url": "https://marineinfo.org/doc/publication/232396"
+    },
+    {
+      "title": "Masilamoni et al. (2000) Jellyfish ingress: a threat to the smooth operation of coastal power plants, Current Science 79: 567",
+      "publisher": "Current Science (catalogue record)",
+      "url": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_miscellaneous_17653911"
+    },
+    {
+      "title": "Impingement of marine organisms in a tropical atomic power plant cooling water system (Mar. Pollut. Bull. 124: 555, 2017)",
+      "publisher": "FAO AGRIS",
+      "url": "https://agris.fao.org/search/en/records/65decf510f3e94b9e5d19673"
+    },
+    {
+      "title": "Behera et al. (2020) Emerging jellyfish fisheries along Central South East coast of India, Ocean & Coastal Management 191",
+      "publisher": "CMFRI eprints",
+      "url": "https://eprints.cmfri.org.in/14168/"
+    },
+    {
+      "title": "Surya et al. (2025) Update on the jellyfish swarming dynamics along the southern coast of Kerala, J. Mar. Biol. Assoc. India 67: 70",
+      "publisher": "CMFRI eprints",
+      "url": "https://eprints.cmfri.org.in/19467/"
+    },
+    {
+      "title": "Jellyfish exports and landings: CMFRI director quoted by PTI (24 Nov 2023)",
+      "publisher": "PSU Watch (PTI)",
+      "url": "https://psuwatch.com/press-releases/kl-jellyfish"
+    },
+    {
+      "title": "Is a Portuguese man o' war a jellyfish?",
+      "publisher": "NOAA Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/portuguese-man-o-war.html"
+    },
+    {
+      "title": "Guideline 9.4.5: First aid management of marine envenomation (2025)",
+      "publisher": "ANZCOR",
+      "url": "https://www.anzcor.org/home/first-aid-for-bites-stings-and-poisoning/guideline-9-4-5-envenomation-jellyfish-stings/"
+    },
+    {
+      "title": "Jellyfish stings",
+      "publisher": "Healthdirect Australia",
+      "url": "https://www.healthdirect.gov.au/jellyfish-stings"
+    },
+    {
+      "title": "Jellyfish and other sea creature stings",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/"
+    },
+    {
+      "title": "Charles Richet: facts",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1913/richet/facts/"
+    },
+    {
+      "title": "Chironex fleckeri",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chironex_fleckeri"
+    },
+    {
+      "title": "As jellyfish blooms increase in north Kerala, fishers put a pause on work (2021)",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/2021/02/as-jellyfish-blooms-increase-in-north-kerala-fishers-put-a-pause-on-work/"
+    },
+    {
+      "title": "Hyman (1937) on the water content of Aurelia, Bulletin of the Mount Desert Island Biological Laboratory",
+      "publisher": "MDIBL digital archive",
+      "url": "https://digitalarchive.mdibl.org/files/original/10312/Bulletin_Vol03hNo06.pdf"
+    },
+    {
+      "title": "George Romanes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Romanes"
+    },
+    {
+      "title": "Velarium control and visual steering in box jellyfish (Petie, Garm & Nilsson 2013)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3604586/"
+    }
+  ]
+}
